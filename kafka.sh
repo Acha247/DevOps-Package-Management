@@ -1,5 +1,5 @@
 #prerequisite install java and update Ubuntu server
-sudo apt update
+sudo apt update -y
 sudo apt install default-jdk
 # create a kafka user
 sudo adduser kafka
